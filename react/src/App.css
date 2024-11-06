@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.game {
+  margin: 20px auto;
+  width: 300px;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 2em;
+}
+
+.reset {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
